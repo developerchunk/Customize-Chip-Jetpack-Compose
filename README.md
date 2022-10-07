@@ -2,7 +2,7 @@
 
 This project will teach you how to create a custom Chip and Chip Group in Jetpack Compose. 
 
-Please check out my youtube channel (Aditya Tech Developers) for more interesting content.
+Please check out my youtube channel (Developer Chunk) for more interesting content.
 
 Tutorial of the project is uploaded here: https://youtu.be/T2w2igEuZkM
 
